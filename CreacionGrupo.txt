@@ -1,0 +1,47 @@
+﻿Integrantes: 
+
+Grupo Beta:
+*************************************
+Nombre :Gustavo Andres Becerra SAnchez	 
+Correo:ing.tavo07@gmail.com	
+CC:1.065.630.542
+Breve presentación: Soy ingeniero Electronico, tengo 31 años y vivo en Valledupar.
+
+*************************************
+<<<<<<< HEAD
+Nombre : Ferney Antonio Berrio Zuelta
+Correo:fabz10xx@gmail.com
+CC:1035912365
+Breve presentación:
+Vivo en Guarne Antioquia Tengo 33 años.
+Soy Ingeniero Electrónico.
+Me gusta la bici.
+Tengo conocimientos previos en programación.
+Para este ciclo conozco un poco de HTML y CSS
+
+*************************************
+=======
+>>>>>>> 51eb94aa4030e850b94a1252d90e926a44e3d354
+Nombre : 
+Correo:
+CC:
+Breve presentación:
+
+*************************************
+Nombre : Luis Felipe Reina Ardila
+Correo: felipereina1@hotmail.com
+CC: 1099207284
+Breve presentación: Soy Felipe Reina, tengo 32 años, 
+me gusta todo el tema de programacion y quiero parender muchos mas.
+
+*************************************
+Nombre : 
+Correo:
+CC:
+Breve presentación:
+
+*************************************
+Nombre : 
+Correo:
+CC:
+Breve presentación:
