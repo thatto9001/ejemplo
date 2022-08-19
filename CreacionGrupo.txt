@@ -8,10 +8,15 @@ CC:
 Breve presentación:
 
 *************************************
-Nombre : 
-Correo:
-CC:
+Nombre : Ferney Antonio Berrio Zuelta
+Correo:fabz10xx@gmail.com
+CC:1035912365
 Breve presentación:
+Vivo en Guarne Antioquia.
+Soy Ingeniero Electrónico.
+Me gusta la bici.
+Tengo conocimientos previos en programación.
+Para este ciclo conozco un poco de HTML y CSS
 
 *************************************
 Nombre : 
