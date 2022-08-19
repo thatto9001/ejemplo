@@ -1,11 +1,11 @@
-Integrantes: 
+﻿Integrantes: 
 
 Grupo Beta:
 *************************************
-Nombre : 
-Correo:
-CC:
-Breve presentación:
+Nombre : Gustavo Andres Becerra Sanchez
+Correo: ing.tavo07@gmail.com	
+CC: 1.065.630.542
+Breve presentación: Soy ingeniero Electronico y vivo en Valledupar.
 
 *************************************
 Nombre : 
